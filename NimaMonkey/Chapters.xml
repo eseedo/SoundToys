@@ -1,0 +1,54 @@
+
+<Chapters>
+	<Chapter>
+		<Name>Animal Piano</Name>
+		<Number>1</Number>
+    <Unlocked>1</Unlocked>
+	</Chapter>
+	<Chapter>
+		<Name>Toy Marimba</Name>
+		<Number>2</Number>
+    <Unlocked>0</Unlocked>
+	</Chapter>
+	<Chapter>
+		<Name>Shake Bell</Name>
+		<Number>3</Number>
+    <Unlocked>0</Unlocked>
+	</Chapter>
+	<Chapter>
+		<Name>Toy Bell</Name>
+		<Number>4</Number>
+    <Unlocked>0</Unlocked>
+	</Chapter>
+	<Chapter>
+		<Name>Bubble Popping</Name>
+		<Number>5</Number>
+        <Unlocked>0</Unlocked>
+	</Chapter>
+    <Chapter>
+		<Name>Whack Mole</Name>
+		<Number>6</Number>
+        <Unlocked>0</Unlocked>
+	</Chapter>
+    <Chapter>
+		<Name>Fireworks</Name>
+		<Number>7</Number>
+        <Unlocked>0</Unlocked>
+	</Chapter>
+    <Chapter>
+		<Name>Rattle Drum</Name>
+		<Number>8</Number>
+        <Unlocked>0</Unlocked>
+	</Chapter>
+    <Chapter>
+		<Name>Play Firecrack</Name>
+		<Number>9</Number>
+        <Unlocked>0</Unlocked>
+	</Chapter>
+    
+    <Chapter>
+		<Name>Bamboo clapper</Name>
+		<Number>10</Number>
+        <Unlocked>0</Unlocked>
+	</Chapter>
+</Chapters>
